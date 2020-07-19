@@ -18,7 +18,8 @@ organizations:
   url: "https://www.the-klu.org/faculty-research/post-docs/jakob-heinen/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Seeking to make the best use of my expertise in supply chain management and technical skills in data analysis. My research concerns how disruptive technologies such as additive manufacturing (3D printing) can transform operations. I thereby see great possibilities in the field of operations management, with its strategic focus on value creation, to enable innovative opportunities for products and services along the value chain. 
+bio: Visiting Assistant Professor of Operations Management
+
 
 interests:
 - Operations Management
