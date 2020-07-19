@@ -24,12 +24,7 @@ date_format = "Jan 2006"
   location = "Hamburg, Germany"
   date_start = "2020-07"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-
-  """
+  description = ""
 
 [[experience]]
   title = "Postdoctoral research fellow"
@@ -38,7 +33,7 @@ date_format = "Jan 2006"
   location = "Hamburg, Germany"
   date_start = "2020-01"
   date_end = "2020-06"
-  description = """"""
+  description = ""
 
 
 
@@ -49,7 +44,7 @@ date_format = "Jan 2006"
   location = "Hamburg, Germany"
   date_start = "2015-01"
   date_end = "2019-12"
-  description = """"""
+  description = ""
 
 
 
@@ -61,7 +56,7 @@ date_format = "Jan 2006"
   location = "Copenhagen, Denmark"
   date_start = "2017-11"
   date_end = "2018-09"
-  description = """"""
+  description = ""
 
 
 
@@ -74,7 +69,7 @@ date_format = "Jan 2006"
   location = "Copenhagen, Denmark"
   date_start = "2014-04"
   date_end = "2014-09"
-  description = """"""
+  description = ""
 
 
 
@@ -86,7 +81,7 @@ date_format = "Jan 2006"
   location = "Copenhagen, Denmark"
   date_start = "2013-06"
   date_end = "2013-08"
-  description = """"""
+  description = ""
 
 
 
