@@ -40,7 +40,6 @@ date_format = "Jan 2006"
   date_end = "2020-06"
   description = """"""
 
- """
 
 
 [[experience]]
@@ -52,7 +51,7 @@ date_format = "Jan 2006"
   date_end = "2019-12"
   description = """"""
 
- """
+
 
 
 [[experience]]
@@ -64,7 +63,7 @@ date_format = "Jan 2006"
   date_end = "2018-09"
   description = """"""
 
- """
+
 
 
 
@@ -77,7 +76,6 @@ date_format = "Jan 2006"
   date_end = "2014-09"
   description = """"""
 
- """
 
 
 
@@ -90,7 +88,6 @@ date_format = "Jan 2006"
   date_end = "2013-08"
   description = """"""
 
-"""
 
 
 [[experience]]
@@ -100,5 +97,5 @@ date_format = "Jan 2006"
   location = "Atlanta, USA"
   date_start = "2011-03"
   date_end = "2011-09"
-  description = "
+  description = ""
 
